@@ -8,7 +8,7 @@ header:
 ---
 
 ---
-- **Jan 2021:** 
+- **Jan 2021:** Information Retrival course project *"Coarse and Fine-Grained Hostility Detection in Hindi Posts using Fine Tuned Multilingual Embeddings"* by Arkadipta De and Venkatesh E (metored by me) is accpepted in the CONSTRAINT workshop of AAAI 2021.  
 - **Dec 2020:** Delivered a guest talk on the *"Introduction to RNN - Data Processing and Text
 Classification"* in Two-week online AICTE sponsored *"Faculty Development Program"* on *"Data Science using Python"*
 organized by Shri VECW, Bhimavaram, India. Recieved a ceritficate of appriciation for same.  
