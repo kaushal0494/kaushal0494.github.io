@@ -3,10 +3,18 @@ title: "Publications"
 permalink: /publications/
 ---
 
+
 ---
-[Learning to Distract: A Hierarchical Multi-Decoder Network for Automated Generation of Long Distractors for Multiple-Choice Questions for Reading Comprehension](https://dl.acm.org/doi/pdf/10.1145/3340531.3411997?casa_token=AoVnsgDlMFwAAAAA:kF_UUAv4dl03chWfV1SP1q91bCtilH0-U3hBHl-Utjf6O61Ykgw4S_2Luo1HS0bmB20pZrfVHM0l)  
+[“Coarse and Fine-Grained Hostility Detection in Hindi Posts using Fine Tuned Multilingual
+Embeddings](https://dl.acm.org/doi/pdf/10.1145/3340531.3411997?casa_token=AoVnsgDlMFwAAAAA:kF_UUAv4dl03chWfV1SP1q91bCtilH0-U3hBHl-Utjf6O61Ykgw4S_2Luo1HS0bmB20pZrfVHM0l)  
 CIKM 2020  
 **Kaushal Kumar Maurya**, Maunendra Sankar Desarkar  
+---
+
+---
+[Learning to Distract: A Hierarchical Multi-Decoder Network for Automated Generation of Long Distractors for Multiple-Choice Questions for Reading Comprehension](https://arxiv.org/pdf/2101.04998.pdf)  
+Accepted in CONSTRAINT workshop of AAAI 2021  
+Arkadipta De, Venkatesh E, **Kaushal Kumar Maurya**, and Maunendra Sankar Desarkar,  
 ---
 
 ---
