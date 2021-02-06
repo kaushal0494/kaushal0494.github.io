@@ -8,6 +8,9 @@ header:
 ---
 
 ---
+- **Dec 2020:** Delivered an Guest Talk on the *Introduction to RNN - Data Processing and Text
+Classification* in Two-week online AICTE sponsored *Faculty Development Program* on *Data Science using Python*
+organized by Shri VECW, Bhimavaram, India. Recieved a ceritficate of appriciation for same.  
 - **Nov 2020:** Volunteered and attended EMNLP 2020.
 - **Oct 2020:** Presented our work (accepted in CIKM'20) in ACM- IITH student chapter and CIKM'20 conference.  
 - **Oct 2020:** Received Student travel gran from CIKM'20 (ACM-SIGIR) and ACM-India for presenting my work at the CIKM'20 conference. 
