@@ -17,7 +17,7 @@ CIKM 2020
 ---
 
 ---
-[A neural approach for detecting inline mathematical expressions from scientific documents](https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.12576)  
+[A Neural Approach for Detecting Inline Mathematical Expressions From Scientific Documents](https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.12576)  
 Expert Systems 2020  
 Sreekanth Madisetty, **Kaushal Kumar Maurya**, Akiko Aizawa, and Maunendra Sankar Desarkar  
 ---
