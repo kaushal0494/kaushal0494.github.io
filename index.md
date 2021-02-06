@@ -8,7 +8,8 @@ header:
 ---
 
 ---
-- **Oct 2020:** Present our work (accepted in CIKM'20) in ACM- IITH student chapter and CIKM'20 conference.  
+- **Nov 2020:** Volunteered and attended EMNLP 2020.
+- **Oct 2020:** Presented our work (accepted in CIKM'20) in ACM- IITH student chapter and CIKM'20 conference.  
 - **Oct 2020:** Received Student travel gran from CIKM'20 (ACM-SIGIR) and ACM-India for presenting my work at the CIKM'20 conference. 
 - **Aug 2020:** Successfully converted as Senior Research Fellow (SRF) at CSE-IITH 
 - **July 2020:** Acted as a secondary reviewer along with Samujjwal for EMNLP 2020.
