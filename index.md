@@ -8,11 +8,13 @@ header:
 ---
 
 ---
-- **Dec 2020:** Delivered an Guest Talk on the *Introduction to RNN - Data Processing and Text
-Classification* in Two-week online AICTE sponsored *Faculty Development Program* on *Data Science using Python*
+- **Jan 2021:** 
+- **Dec 2020:** Delivered a guest talk on the *"Introduction to RNN - Data Processing and Text
+Classification"* in Two-week online AICTE sponsored *"Faculty Development Program"* on *"Data Science using Python"*
 organized by Shri VECW, Bhimavaram, India. Recieved a ceritficate of appriciation for same.  
 - **Nov 2020:** Volunteered and attended EMNLP 2020.
-- **Oct 2020:** Presented our work (accepted in CIKM'20) in ACM- IITH student chapter and CIKM'20 conference.  
+- **Oct 2020:** Presented our accepted work in CIKM'20 conference.
+- **Oct 2020:** Delivered a guest talk on *"Learning to Distract: Generation of incorrect options from Reading Comprehension MCQ"* in ACM- IITH student chapter.  
 - **Oct 2020:** Received Student travel gran from CIKM'20 (ACM-SIGIR) and ACM-India for presenting my work at the CIKM'20 conference. 
 - **Aug 2020:** Successfully converted as Senior Research Fellow (SRF) at CSE-IITH 
 - **July 2020:** Acted as a secondary reviewer along with Samujjwal for EMNLP 2020.
