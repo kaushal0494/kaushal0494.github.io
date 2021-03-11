@@ -6,7 +6,7 @@ permalink: /publications/
 
 ---
 [Coarse and Fine-Grained Hostility Detection in Hindi Posts using Fine Tuned Multilingual Embeddings](https://arxiv.org/pdf/2101.04998.pdf)  
-Accepted in CONSTRAINT workshop of AAAI 2021  
+Accepted in CONSTRAINT workshop of AAAI 2021 [**Shared task best paper honorable mention**](http://lcs2.iiitd.edu.in/CONSTRAINT-2021/)  
 Arkadipta De, Venkatesh E, **Kaushal Kumar Maurya**, and Maunendra Sankar Desarkar,  
 ---
 
