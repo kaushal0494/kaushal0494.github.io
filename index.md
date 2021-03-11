@@ -9,7 +9,7 @@ header:
 
 ---
 - **Feb 2021:** Received Suzuki foundation fellowship 2021. Second year consecutively.
-- **Jan 2021:** Information Retrieval course project *"Coarse and Fine-Grained Hostility Detection in Hindi Posts using Fine Tuned Multilingual Embeddings"* by Arkadipta De and Venkatesh E (mentored by me) is accepted in the CONSTRAINT workshop of AAAI 2021.  
+- **Jan 2021:** Information Retrieval course project *"Coarse and Fine-Grained Hostility Detection in Hindi Posts using Fine Tuned Multilingual Embeddings"* by Arkadipta De and Venkatesh E (mentored by me) is accepted in the CONSTRAINT workshop of AAAI 2021. **Shared task best paper honorable mention** 
 - **Dec 2020:** Delivered a guest talk on the *"Introduction to RNN - Data Processing and Text
 Classification"* in Two-week online AICTE sponsored *"Faculty Development Program"* on *"Data Science using Python"*
 organized by Shri VECW, Bhimavaram, India. Received a certificate of appreciation for the same.  
