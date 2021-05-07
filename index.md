@@ -8,6 +8,8 @@ header:
 ---
 
 ---
+- **May 2021:** Our paper **Kuahsal Kumar Maurya**, Maunendra Sankar Desarkar, Yoshinobu Kano and Kumari Deepshikha *ZmBART: An Unsupervised Cross-lingual Transfer Framework for Language Generation* is accepted in Findings of ACL 2021. 
+- **April 2021:** Recived three internship offer this summer (Microsoft India (R&D), IBM Research Lab and Goldman Sachs Research Lab). I will be joining *Microsoft India (R&D)* as the internship and my PhD theme is aligned.
 - **Feb 2021:** Received Suzuki foundation fellowship 2021. Second year consecutively.
 - **Jan 2021:** **[[Shared task best paper honorable mention](http://lcs2.iiitd.edu.in/CONSTRAINT-2021/)]** Information Retrieval course project *"Coarse and Fine-Grained Hostility Detection in Hindi Posts using Fine Tuned Multilingual Embeddings"* by Arkadipta De and Venkatesh E (mentored by me) is accepted in the CONSTRAINT workshop of AAAI 2021.  
 - **Dec 2020:** Delivered a guest talk on the *"Introduction to RNN - Data Processing and Text
