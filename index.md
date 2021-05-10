@@ -10,6 +10,7 @@ header:
 ---
 - **May 2021:** Our paper *"ZmBART: An Unsupervised Cross-lingual Transfer Framework for Language Generation"* is accepted in the Findings of ACL 2021. Pre-print will be available soon.
 - **April 2021:** Received three internship offer this summer (Microsoft India (R&D), IBM Research Lab, and Goldman Sachs Research Lab). I will be joining *Microsoft India (R&D)* as the internship and my Ph.D. theme align.
+- **April 2021:** Featured in IITH college magazine as joint best departmental poster presentation along with Sriram.
 - **Feb 2021:** Received Suzuki foundation fellowship 2021. Second year consecutively.
 - **Jan 2021:** **[[Shared task best paper honorable mention](http://lcs2.iiitd.edu.in/CONSTRAINT-2021/)]** Information Retrieval course project *"Coarse and Fine-Grained Hostility Detection in Hindi Posts using Fine Tuned Multilingual Embeddings"* by Arkadipta De and Venkatesh E (mentored by me) is accepted in the CONSTRAINT workshop of AAAI 2021.  
 - **Dec 2020:** Delivered a guest talk on the *"Introduction to RNN - Data Processing and Text
