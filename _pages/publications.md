@@ -3,6 +3,11 @@ title: "Publications"
 permalink: /publications/
 ---
 
+---
+[ZmBART: An Unsupervised Cross-lingual Transfer Framework for Language Generation](https://arxiv.org/pdf/2106.01597.pdf)  
+Accepted in Findings of ACL 2021  
+**Kaushal Kumar Maurya**, Maunendra Sankar Desarkar, Yoshinobu Kano and Kumari Deepshikha
+---
 
 ---
 [Coarse and Fine-Grained Hostility Detection in Hindi Posts using Fine Tuned Multilingual Embeddings](https://arxiv.org/pdf/2101.04998.pdf)  
