@@ -8,6 +8,7 @@ header:
 ---
 
 ---
+- **July:** Started next one-year collaborative work with *Microsoft BING Research (Autosuggest Team)* under the *Microsoft Academic Grant scheme*.   
 - **June 2021:** My application for fully-funded *Oxford University ML Summer School 2021* is accepted.
 - **May 2021:** Our paper *"ZmBART: An Unsupervised Cross-lingual Transfer Framework for Language Generation"* is accepted in the Findings of **ACL 2021**.
 - **April 2021:** Received three internship offer this summer (Microsoft India (R&D), IBM Research Lab, and Goldman Sachs Research Lab). I will be joining **Microsoft India (R&D)** as the internship and my Ph.D. theme align.
