@@ -28,6 +28,19 @@ layout: default
               class=profile_image_class
               alt=page.profile.image -%}
             {% endif -%}
+            <!-- Social -->
+            {%- if page.social %}
+            <div class="social">
+              <div class="contact-icons">
+                {% include social.html %}
+              </div>
+
+              <div class="contact-note">
+                {{ site.contact_note }}
+              </div>
+            </div>
+            {%- endif %} 
+
             {%- if page.profile.address %}
             <div class="address">
               {{ page.profile.address }}
@@ -42,18 +55,18 @@ layout: default
 
           <!-- News -->
           {% if page.news -%}
-            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
+            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">News</a></h2>
             {%- include news.html %}
           {%- endif %}
-
+          <p> </p>
           <!-- Selected papers -->
           {% if page.selected_papers -%}
-            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
+            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Selected Publications</a></h2>
             {%- include selected_papers.html %}
           {%- endif %}
 
           <!-- Social -->
-          {%- if page.social %}
+          <!-- {%- if page.social %}
             <div class="social">
               <div class="contact-icons">
                 {% include social.html %}
@@ -63,7 +76,7 @@ layout: default
                 {{ site.contact_note }}
               </div>
               
-            </div>
+            </div> -->
           {%- endif %}
         </article>
 

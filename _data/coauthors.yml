@@ -1,13 +1,10 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
-
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
 
 "Rosen":
   - firstname: ["Nathan", "N."]
+    url: https://kaushal0494.github.io/
+
+"Maurya":
+  - firstname: ["Maurya", "Kaushal Kumar"]
     url: https://en.wikipedia.org/wiki/Nathan_Rosen
 
 "Bach": 

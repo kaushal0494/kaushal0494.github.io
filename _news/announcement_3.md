@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2021-01-10 15:59:00-0400
 inline: true
-related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+**[[Shared task best paper honorable mention](http://lcs2.iiitd.edu.in/CONSTRAINT-2021/)]** has been awarded to "Coarse and Fine-Grained Hostility Detection in Hindi Posts using Fine Tuned Multilingual Embeddings," which was accepted in the **CONSTRAINT workshop of AAAI 2021**. This paper was based on an information retrieval course project that I **mentored**.  
