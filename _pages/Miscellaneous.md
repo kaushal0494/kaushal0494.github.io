@@ -9,6 +9,7 @@ nav_order: 3
 
 <html>
 <head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Toggle Box Example</title>
 	<style>
 		.box {
