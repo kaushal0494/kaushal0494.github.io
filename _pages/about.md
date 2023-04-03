@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD candidate in the [Department of Computer Science and Engineering](https://cse.iith.ac.in/) at [Indian Institute of Technology Hyderabad](https://www.iith.ac.in/) and advised by Dr. [Maunendra Sankar Desarkar](https://www.iith.ac.in/~maunendra/). I am active collaborator at Microsoft India, working with [Manish Gupta](https://sites.google.com/view/manishg/) and [Anoop Kunchukuttan](https://anoopkunchukuttan.gitlab.io/). I spent last three wonderful summers interning at [Microsoft](https://www.microsoft.com/en-in/msidc/hyderabad-campus.aspx) (Translation and Auto-suggest teams) and [Nvidia-AI](https://resources.nvidia.com/en-us-gps-ai-capacity-building/nvaitc-research). Hi
+I am a PhD candidate in the [Department of Computer Science and Engineering](https://cse.iith.ac.in/) at [Indian Institute of Technology Hyderabad](https://www.iith.ac.in/) and advised by Dr. [Maunendra Sankar Desarkar](https://www.iith.ac.in/~maunendra/). I am active collaborator at Microsoft India, working with [Manish Gupta](https://sites.google.com/view/manishg/) and [Anoop Kunchukuttan](https://anoopkunchukuttan.gitlab.io/). I spent last three wonderful summers interning at [Microsoft](https://www.microsoft.com/en-in/msidc/hyderabad-campus.aspx) (Translation and Auto-suggest teams) and [Nvidia-AI](https://resources.nvidia.com/en-us-gps-ai-capacity-building/nvaitc-research).
 
 <h3><a>Research Interest</a></h3>
 
