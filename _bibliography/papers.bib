@@ -16,10 +16,10 @@
     pages = "269--284",
     selected={true},
     poster={metaxng_poster.pdf},
-    %slides={slide.pdf},
     code={https://github.com/kaushal0494/Meta_XNLG},
     bibtex_show={true},
     talk={https://aclanthology.org/2022.findings-acl.24.mp4},
+    preview={metaxng.png},
     abstract = "Recently, the NLP community has witnessed a rapid advancement in multilingual and cross-lingual transfer research where the supervision is transferred from high-resource languages (HRLs) to low-resource languages (LRLs). However, the cross-lingual transfer is not uniform across languages, particularly in the zero-shot setting. Towards this goal, one promising research direction is to learn shareable structures across multiple tasks with limited annotated data. The downstream multilingual applications may benefit from such a learning setup as most of the languages across the globe are low-resource and share some structures with other languages. In this paper, we propose a novel meta-learning framework (called Meta-X$_{NLG}$) to learn shareable structures from typologically diverse languages based on meta-learning and language clustering. This is a step towards uniform cross-lingual transfer for unseen languages. We first cluster the languages based on language representations and identify the centroid language of each cluster. Then, a meta-learning algorithm is trained with all centroid languages and evaluated on the other languages in the zero-shot setting. We demonstrate the effectiveness of this modeling on two NLG tasks (Abstractive Text Summarization and Question Generation), 5 popular datasets and 30 typologically diverse languages. Consistent improvements over strong baselines demonstrate the efficacy of the proposed framework. The careful design of the model makes this end-to-end NLG setup less vulnerable to the accidental translation problem, which is a prominent concern in zero-shot cross-lingual NLG tasks.",
 }
 
@@ -45,6 +45,7 @@ pdf={https://dl.acm.org/doi/pdf/10.1145/3501247.3531579},
 code={https://github.com/AditiBagora/Hasoc2021CodeMix},
 bibtex_show={true},
 slides={websci.pdf},
+preview={codemix.png},
 }
 
 @inproceedings{maurya-etal-2021-zmbart,
@@ -63,11 +64,10 @@ slides={websci.pdf},
     pages = "2804--2818",
     pdf="https://aclanthology.org/2021.findings-acl.248.pdf",
     selected={true},
-    %slides={slide.pdf},
     code={https://github.com/kaushal0494/ZmBART},
     bibtex_show={true},
+    preview={zmbart.png},
     talk={https://aclanthology.org/2021.findings-acl.248.mp4},
-    %dimensions={true},
     abstract ={Despite the recent advancement in NLP research, cross-lingual transfer for natural language generation is relatively understudied. In this work, we transfer supervision from
 high resource language (HRL) to multiple lowresource languages (LRLs) for natural language generation (NLG). We consider four
 NLG tasks (text summarization, question generation, news headline generation, and distractor generation) and three syntactically diverse languages, i.e., English, Hindi, and
@@ -111,9 +111,10 @@ ZmBART.},
   bibsource = {dblp computer science bibliography, https://dblp.org},
   abstract={Due to the wide adoption of social media platforms like Facebook, Twitter, etc., there is an emerging need of detecting online posts that can go against the community acceptance standards. The hostility detection task has been well explored for resource-rich languages like English, but is unexplored for resource-constrained languages like Hindi due to the unavailability of large suitable data. We view this hostility detection as a multi-label multi-class classification problem. We propose an effective neural network-based technique for hostility detection in Hindi posts. We leverage pre-trained multilingual Bidirectional Encoder Representations of Transformer (mBERT) to obtain the contextual representations of Hindi posts. We have performed extensive experiments including different pre-processing techniques, pre-trained models, neural architectures, hybrid strategies, etc. Our best performing neural classifier model includes One-vs-the-Rest approach where we obtained 92.60{\%}, 81.14{\%}, 69.59{\%}, 75.29{\%} and 73.01{\%} F1 scores for hostile, fake, hate, offensive, and defamation labels respectively. The proposed model (https://github.com/Arko98/Hostility-Detection-in-Hindi-Constraint-2021) outperformed the existing baseline models and emerged as the state-of-the-art model for detecting hostility in the Hindi posts.},
   pdf="https://www.springerprofessional.de/en/coarse-and-fine-grained-hostility-detection-in-hindi-posts-using/19047892",
-  arxiv="https://arxiv.org/abs/2101.04998",
+  arxiv="https://arxiv.org/pdf/2101.04998.pdf",
   code={https://github.com/Arko98/Hostility-Detection-in-Hindi-Constraint-2021},
   bibtex_show={true},
+  preview={host.png},
 }
 
 @inproceedings{10.1145/3340531.3411997,
@@ -133,13 +134,11 @@ keywords = {distractor generation, natural language generation, question-answeri
 location = {Virtual Event, Ireland},
 series = {CIKM '20},
 bibtex_show={true},
+preview={disgen.png},
 pdf="https://dl.acm.org/doi/pdf/10.1145/3340531.3411997",
 selected={true},
-%poster={metaxng_poster.pdf},
-%slides={slide.pdf},
 code={https://github.com/kaushal0494/HMD_Network},
 bibtex_show={true},
-%talk={https://aclanthology.org/2022.findings-acl.24.mp4},
 }
 
 
@@ -161,6 +160,7 @@ bibtex_show={true},
   bibsource = {dblp computer science bibliography, https://dblp.org},
   bibtex_show={true},
   pdf={https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.12576},
+  preview={imed.png},
   abstract={Scientific documents generally contain multiple mathematical expressions in them. Detecting inline mathematical expressions are one of the most important and challenging tasks in scientific text mining. Recent works that detect inline mathematical expressions in scientific documents have looked at the problem from an image processing perspective. There is little work that has targeted the problem from NLP perspective. Towards this, we define a few features and applied Conditional Random Fields (CRF) to detect inline mathematical expressions in scientific documents. Apart from this feature based approach, we also propose a hybrid algorithm that combines Bidirectional Long Short Term Memory networks (Bi-LSTM) and feature-based approach for this task. Experimental results suggest that this proposed hybrid method outperforms several baselines in the literature and also individual methods in the hybrid approach.},
 }
 
@@ -173,6 +173,7 @@ bibtex_show={true},
   organization={Springer},
   bibtex_show={true},
   slides={mte.pdf},
+  preview={mte.png},
   pdf={https://www.researchgate.net/profile/Kaushal-Maurya/publication/338467760_Machine_Translation_Evaluation_Manual_Versus_Automatic-A_Comparative_Study/links/5f4d1177458515a88b9a4ac8/Machine-Translation-Evaluation-Manual-Versus-Automatic-A-Comparative-Study.pdf},
   abstract={The quality of machine translation (MT) is best judged by humans well
 versed in both source and target languages. However, automatic techniques are often
@@ -184,7 +185,6 @@ NIST, METEOR, TER and WER, against the manual evaluation metric (adequacy),
 for English-Hindi translation. We also attempt to estimate the manual evaluation
 score of a given MT output from its automatic evaluation score. The data for the study
 was sourced from the Workshop on Statistical Machine Translation WMT14.},
-
 }
 
 
