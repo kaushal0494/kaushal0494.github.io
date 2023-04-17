@@ -120,28 +120,28 @@ nav_order: 3
 </head>
 <body>
   <!-- Box for Research Internships-->
-    <h1 class="headline" onclick="toggleBox6()">Research Internships</h1>
+    <h2 class="headline" onclick="toggleBox6()">Research Internships</h2>
 	<div class="boxp6">
     <div class="project">
-			<h3>Microsoft India, Machine Translation Team</h3>
+			<h4>Microsoft India, Machine Translation Team</h4>
 			<p>Research Intern, Auguest 2022 - December 2022 [ 5 Months ]</p>
       <p> <b>Topic:</b> Machine Translation for Extremely Low Resource Languages/Dialects</p>
 		</div>
 		<div class="project">
-			<h3>Microsoft India, Auto-suggest Team</h3>
+			<h4>Microsoft India, Auto-suggest Team</h4>
 			<p>Research Intern, June 2021 - July 2021 [ 2 Months ]</p>
       <p> <b>Topic:</b> Trie Context Augmentation to improve Auto-suggestions for Bing Search Engine</p>
 		</div>
 		<div class="project">
-			<h3>Nvidia AI Research Center India</h3>
+			<h4>Nvidia AI Research Center India</h4>
 			<p>Research Intern, May 2020 - Jan 2021 [ 9 Months ]</p>
       <p> <b>Topic:</b> Towards Unsupervised Cross-lingual Transfer and Generation for Indian Languages</p>
 		</div>
 	</div>
   <!-- Box for Experience -->
-  <h1 class="headline" onclick="toggleBox1()">Experience</h1>
+  <h2 class="headline" onclick="toggleBox1()">Experience</h2>
 	<div class="boxp1">
-		<h3> Data Scientist at <a href="https://ntwist.com/">NTwist</a>, India</h3>
+		<h4> Data Scientist at <a href="https://ntwist.com/">NTwist</a>, India</h4>
 		<p>AI Startup, July 2017 - March 2018 [9 Months]</p>
     <ol type="1">
       <li>Optimization and automation of Gas-plant production by modelling with Deep Reinforcement
@@ -150,23 +150,23 @@ nav_order: 3
     </ol>
 	</div>
   <!-- Box for Research Collaborations  -->
-  <h1 class="headline" onclick="toggleBox7()">Research Collaborations</h1>
+  <h2 class="headline" onclick="toggleBox7()">Research Collaborations</h2>
 	<div class="boxp7">
     <div class="project">
-			<h3>Microsoft India, Auto-suggest Team</h3>
+			<h4>Microsoft India, Auto-suggest Team</h4>
 			<p>Collaborator Under Microsoft Academic Grant (MAPG), July 2022 - June 2023 [ 1 Year ]</p>
       <p> <b>Topic:</b> Multilingual and Non-toxic Auto-suggestion Genenrations for Bing Search Engine</p>
 		</div>
 		<div class="project">
-			<h3>Microsoft India, Auto-suggest Team</h3>
+			<h4>Microsoft India, Auto-suggest Team</h4>
 			<p>Collaborator Under Microsoft Academic Grant (MAPG), July 2021 - June 2021 [ 1 Year ]</p>
       <p> <b>Topic:</b> Trie Context Augmentation to improve Auto-suggestions for Bing Search Engine</p>
 		</div>
 	</div>
   <!-- Box Technical Advisor< -->
-  <h1 class="headline" onclick="toggleBox2()">Technical Advisor</h1>
+  <h2 class="headline" onclick="toggleBox2()">Technical Advisor</h2>
 	<div class="boxp2">
-		<h3> Technical Advisor at <a href="https://lendingkatalyst.com/">Lending Katalyst</a>, India</h3>
+		<h4> Technical Advisor at <a href="https://lendingkatalyst.com/">Lending Katalyst</a>, India</h4>
 		<p>AI-NLP Startup in Legal Domain, February 2022- Present</p>
     <ol type="1">
       <li>Provide AI/NLP-oriented solutions for real-world use cases in the legal domain </li>
@@ -174,7 +174,7 @@ nav_order: 3
     </ol>
 	</div>
   <!-- Box for Guest talk -->
-  <h1 class="headline" onclick="toggleBox8()">Guest Talks</h1>
+  <h2 class="headline" onclick="toggleBox8()">Guest Talks</h2>
 	<div class="boxp8">
     <div class="project1">
       <h5><b>[April 2022]</b> Guest Task at SCIS, University of Hyderabad, India</h5> <b>Topic:</b> Introduction to Deep-Learning through lenses of Natural Language Processing 
@@ -193,7 +193,7 @@ nav_order: 3
 		</div>
   	</div>
   <!-- RESEARCH SERVICES < -->
-  <h1 class="headline" onclick="toggleBox3()">Research Services</h1>
+  <h2 class="headline" onclick="toggleBox3()">Research Services</h2>
 	<div class="boxp3">
     <ol type="1">
       <li><b>Reviewer:</b> ACL [2021-23], EMNLP [2021-22], ICLR [2021-22], AAAI [2021-22], ARR [2022-23], SIGTYPE [2021] and MLR [2021]</li>
@@ -205,7 +205,7 @@ nav_order: 3
     </ol>
 	</div>
   <!-- ACADEMIC HONORS & AWARDS < -->
-  <h1 class="headline" onclick="toggleBox4()">Selected Academic Honors And Awards</h1>
+  <h2 class="headline" onclick="toggleBox4()">Selected Academic Honors And Awards</h2>
 	<div class="boxp4">
     <ol type="1">
       <li>Received a grant of 100K INR for attending the conference by IIT Hyderabad in <b>Exceptional Research Scholar</b> category</li>
@@ -224,7 +224,7 @@ nav_order: 3
     </ol>
 	</div>
   <!-- TEACHING ASSISTANTSHIP & MENTORSHIP < -->
-  <h1 class="headline" onclick="toggleBox5()">Teaching Assistantship and Mentorship</h1>
+  <h2 class="headline" onclick="toggleBox5()">Teaching Assistantship and Mentorship</h2>
 	<div class="boxp5">
     <ol type="1">
       <li>Took <b>lectures/hands-on sessions</b> in the NLP/IR Course at IITH during 2020-2023</li>
