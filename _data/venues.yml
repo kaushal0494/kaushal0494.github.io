@@ -4,7 +4,51 @@
 "PhysRev":
   url: https://journals.aps.org/
 
-"NLP":
+"Cross-Lingual":
   url:
+
+"Meta-Learning":
+  url:
+  
+"Code-mix NLP":
+  url:
+
+"Hostility":
+  url:
+
+"Typology":
+  url:
+
+"Unsupervised":
+  url:
+
+"Transfer-Learning":
+  url:
+
+"Multilingual":
+  url:
+
+"Token-Classification":
+  url:
+
+"Math Document":
+  url:
+
+"Q&A, MCQ":
+  url:
+
+"Multi-Decoder":
+  url:
+
+"LSTM":
+  url:
+
+"MT Evalution":
+  url:
+
+"Correlation study":
+  url:
+  
+  
 
 
