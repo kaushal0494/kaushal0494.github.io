@@ -7,6 +7,7 @@ nav: true
 nav_order: 2
 ---
 
+- **May 2023:** Reached a milestone in my academic career by attaining **50 citations** on Google Scholar.
 - **May 2023:** Our paper *"DIVHSK: Diverse Headline Generation using Self-Attention based Keyword Selection"* is accepted in the Findings of **ACL 2023**.
 - **May 2023:** Delivered a guest on **Introduction to AI** at KG reddy college Hyderabad, Telangana hosted by **Swechha foundation (NGO)**.
 - **March 2023:** Selected for **research lighting talk** at IIT Hyderabad on Research Scholar Day 2023.
