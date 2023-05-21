@@ -1,6 +1,21 @@
 ---
 ---
 
+@article{maurya2023utilizing,
+  title={Utilizing Lexical Similarity to Enable Zero-Shot Machine Translation for Extremely Low-resource Languages},
+  author={Maurya, Kaushal Kumar and Kejriwal, Rahul and Desarkar, Maunendra Sankar and Kunchukuttan, Anoop},
+  journal={arXiv preprint arXiv:2305.05214},
+  year={2023}
+  abbr={Cross-Lingual},
+  abbr1={Meta-Learning},
+  abbr2={Typology},
+  preview={metaxng.png},
+  bibtex_show={true},
+  pdf={https://arxiv.org/pdf/2305.05214.pdf}",
+  arxiv={https://arxiv.org/abs/2305.05214}",
+  abstract={We address the task of machine translation from an extremely low-resource language (LRL) to English using cross-lingual transfer from a closely related high-resource language (HRL). For many of these languages, no parallel corpora are available, even monolingual corpora are limited and representations in pre-trained sequence-to-sequence models are absent. These factors limit the benefits of cross-lingual transfer from shared embedding spaces in multilingual models. However, many extremely LRLs have a high level of lexical similarity with related HRLs. We utilize this property by injecting character and character-span noise into the training data of the HRL prior to learning the vocabulary. This serves as a regularizer which makes the model more robust to lexical divergences between the HRL and LRL and better facilitates cross-lingual transfer. On closely related HRL and LRL pairs from multiple language families, we observe that our method significantly outperforms the baseline MT as well as approaches proposed previously to address cross-lingual transfer between closely related languages. We also show that the proposed character-span noise injection performs better than the unigram-character noise injection.} 
+}
+
 @inproceedings{maurya-desarkar-2022-meta,
     title = "Meta-X$_{NLG}$: A Meta-Learning Approach Based on Language Clustering for Zero-Shot Cross-Lingual Transfer and Generation",
     author = "Maurya, Kaushal Kumar and
@@ -118,8 +133,8 @@ ZmBART.},
   biburl    = {https://dblp.org/rec/journals/corr/abs-2101-04998.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org},
   abstract={Due to the wide adoption of social media platforms like Facebook, Twitter, etc., there is an emerging need of detecting online posts that can go against the community acceptance standards. The hostility detection task has been well explored for resource-rich languages like English, but is unexplored for resource-constrained languages like Hindi due to the unavailability of large suitable data. We view this hostility detection as a multi-label multi-class classification problem. We propose an effective neural network-based technique for hostility detection in Hindi posts. We leverage pre-trained multilingual Bidirectional Encoder Representations of Transformer (mBERT) to obtain the contextual representations of Hindi posts. We have performed extensive experiments including different pre-processing techniques, pre-trained models, neural architectures, hybrid strategies, etc. Our best performing neural classifier model includes One-vs-the-Rest approach where we obtained 92.60{\%}, 81.14{\%}, 69.59{\%}, 75.29{\%} and 73.01{\%} F1 scores for hostile, fake, hate, offensive, and defamation labels respectively. The proposed model (https://github.com/Arko98/Hostility-Detection-in-Hindi-Constraint-2021) outperformed the existing baseline models and emerged as the state-of-the-art model for detecting hostility in the Hindi posts.},
-  pdf="https://www.springerprofessional.de/en/coarse-and-fine-grained-hostility-detection-in-hindi-posts-using/19047892",
-  arxiv="https://arxiv.org/pdf/2101.04998.pdf",
+  pdf={https://www.springerprofessional.de/en/coarse-and-fine-grained-hostility-detection-in-hindi-posts-using/19047892},
+  arxiv={https://arxiv.org/abs/2101.04998},
   code={https://github.com/Arko98/Hostility-Detection-in-Hindi-Constraint-2021},
   bibtex_show={true},
   preview={host.png},
