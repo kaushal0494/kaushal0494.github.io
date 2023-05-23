@@ -16,6 +16,26 @@
   abstract={We address the task of machine translation from an extremely low-resource language (LRL) to English using cross-lingual transfer from a closely related high-resource language (HRL). For many of these languages, no parallel corpora are available, even monolingual corpora are limited and representations in pre-trained sequence-to-sequence models are absent. These factors limit the benefits of cross-lingual transfer from shared embedding spaces in multilingual models. However, many extremely LRLs have a high level of lexical similarity with related HRLs. We utilize this property by injecting character and character-span noise into the training data of the HRL prior to learning the vocabulary. This serves as a regularizer which makes the model more robust to lexical divergences between the HRL and LRL and better facilitates cross-lingual transfer. On closely related HRL and LRL pairs from multiple language families, we observe that our method significantly outperforms the baseline MT as well as approaches proposed previously to address cross-lingual transfer between closely related languages. We also show that the proposed character-span noise injection performs better than the unigram-character noise injection.},
 }
 
+@inproceedings{maurya-desarkar-2023-divhsk,
+    title = "DivHSK: Diverse Headline Generation using Self-Attention based",
+    author = "E, Venkatesh and Maurya, Kaushal Kumar and
+      Kumar, Deepak and Desarkar, Maunendra",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2023",
+    month = July,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    selected={true},
+    code={https://github.com/kaushal0494/DivHSK},
+    bibtex_show={true},
+    preview={divhsk.png},
+    abbr={NLG},
+    abbr1={Diverse Headlines},
+    abbr2={Self-attention},
+    abstract = "Diverse headline generation is an NLP task where given a news article, the goal is to generate multiple headlines that are true to the content of the article, but are different among themselves. This task aims to exhibit and exploit semantically similar one-to-many relationships between a source news article and multiple target headlines. Towards this, we propose a novel model called DivHSK. It has two components: KeySelect for selecting the important keywords, and SeqGen, for finally generating the multiple diverse headlines. In KeySelect, we cluster the self-attention heads of the last layer of the pre-trained encoder and select the most-attentive theme and general keywords from the source article. Then, cluster-specific keyword sets guide the SeqGen, a pre-trained encoder-decoder model, to generate diverse yet semantically similar headlines. The proposed model consistently outperformed existing literature and our strong baselines and emerged as a state-of-the-art model. Additionally, We have also created a high-quality multi-reference headline dataset from news articles.",
+}
+
+
 @inproceedings{maurya-desarkar-2022-meta,
     title = "Meta-X$_{NLG}$: A Meta-Learning Approach Based on Language Clustering for Zero-Shot Cross-Lingual Transfer and Generation",
     author = "Maurya, Kaushal Kumar and
