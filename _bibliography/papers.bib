@@ -2,6 +2,20 @@
 ---
 
 @inproceedings{maurya2023utilizing,
+  title={Trie-NLG: Trie Context Augmentation to Improve Personalized Query Auto-Completion for Short and Unseen Prefixes},
+  author={Maurya, Kaushal Kumar and Desarkar, Maunendra Sankar and Gupta, Manish and Agrawal, Puneet},
+  booktitle={ECML-PKDD 2023 (Journal Track: DAMI)},
+  year={2023},
+  abbr={Auto-Completion},
+  abbr1={Trie},
+  abbr2={NLG Agumentation},
+  preview={trie_nlg.png},
+  bibtex_show={true},
+  pdf={maurya2023_pkdd.pdf},
+  abstract={Query auto-completion (QAC) aims at suggesting plausible completions for a given query prefix. Traditionally, QAC systems have leveraged tries curated from historical query logs to suggest most popular completions. In this context, there are two specific scenarios that are difficult to handle for any QAC system: short prefixes (which are inherently ambiguous) and unseen prefixes. Recently, personalized Natural Language Generation (NLG) models have been proposed to leverage previous session queries as context for addressing these two challenges. However, such NLG models suffer from two drawbacks: (1) some of the previous session queries could be noisy and irrelevant to the user intent for the current prefix, and (2) NLG models cannot directly incorporate historical query popularity. This motivates us to propose a novel NLG model for QAC, Trie-NLG, which jointly leverages popularity signals from trie and personalization signals from previous session queries. We train the Trie-NLG model by augmenting the prefix with rich context comprising of recent session queries and top trie completions. This simple modeling approach overcomes the limitations of trie-based and NLG-based approaches, and leads to state-of-the-art performance. We evaluate the Trie-NLG model using two large QAC datasets. On average, our model achieves huge 57% and 14% boost in MRR over the popular trie-based lookup and the strong BART-based baseline methods, respectively.},
+}
+
+@inproceedings{maurya2023utilizing,
   title={Utilizing Lexical Similarity to Enable Zero-Shot Machine Translation for Extremely Low-resource Languages},
   author={Maurya, Kaushal Kumar and Kejriwal, Rahul and Desarkar, Maunendra Sankar and Kunchukuttan, Anoop},
   booktitle={arXiv preprint arXiv:2305.05214},
@@ -19,7 +33,7 @@
 @inproceedings{maurya-desarkar-2023-divhsk,
     title = "DIVHSK: Diverse Headline Generation using Self-Attention based Keyword Selection",
     author = "E, Venkatesh and Maurya, Kaushal Kumar and
-      Kumar, Deepak and Desarkar, Maunendra",
+      Kumar, Deepak and Desarkar, Maunendra Sankar",
     booktitle = "Findings of the Association for Computational Linguistics: ACL 2023",
     month = July,
     year = "2023",
@@ -128,7 +142,7 @@ good initialization for target tasks. Then, this
 model is fine-tuned with task-specific supervised English data and directly evaluated with
 low-resource languages in the Zero-shot setting. To overcome catastrophic forgetting
 and spurious correlation issues, we applied
-freezing model component and data argumentation approaches respectively. This simple
+freezing model component and data arguclosely related languages. We also show that the proposed character-span noise injection performs better than the unigram-character noise injection.mentation approaches respectively. This simple
 modeling approach gave us promising results.
 We experimented with few-shot training (with
 1000 supervised data-points) which boosted
