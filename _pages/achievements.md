@@ -7,9 +7,11 @@ nav: true
 nav_order: 2
 ---
 
+- **July 2023:** Our paper *"Trie-NLG: Trie Context Augmentation to Improve Personalized Query Auto-Completion for Short and Unseen Prefixes”* is accepted in the **ECML-PKDD 2023 (Journal Track: DAMI)**. This work is a collaborative effort with Microsoft India, supported by the **Microsoft Partnership Grant**.
+- **June 2023:** Delivered an invited talk on **Hype to Reality: Responsible Text Generation with Large Language Models** at the CSE seminar series, at IIT Hyderabad.
 - **May 2023:** Reached a milestone in my academic career by attaining **50 citations** on Google Scholar.
 - **May 2023:** Our paper *"DivHSK: Diverse Headline Generation using Self-Attention based Keyword Selection"* is accepted in the Findings of **ACL 2023**.
-- **May 2023:** Delivered a guest talk on **Introduction to AI** at KG reddy college at Hyderabad hosted by **Swechha Foundation (NGO)**.
+- **May 2023:** Delivered an invited talk on **Introduction to AI** at KG reddy college at Hyderabad hosted by **Swechha Foundation (NGO)**.
 - **March 2023:** Selected for **research lighting talk** at IIT Hyderabad on Research Scholar Day 2023.
 - **Feb 2023:** My application for in-person summer school at **University of Oxford** is accepted.
 - **Dec 2022:** Served as a **lead** volunteer to manage a hybrid/virtual platform at the  ACML conference held in Hyderabad, India.
@@ -19,14 +21,14 @@ nav_order: 2
 - **June 2022:** Post Conference travel grant from ACL. Grateful to ACL.
 - **May 2022:** Attended ACL 2022 conference **In-Person** at Dublin, Ireland.
 - **May 2022:** Our ACL 2022 paper *"Meta-XNLG: A Meta-Learning Approach Based on Language Clustering for Zero-Shot Cross-Lingual Transfer and Generation"* is recognized as **premier paper from India** by [**IKDD-ACM India**](https://ikdd.acm.org/premier-papers.php/).
-- **April 2022:** Delivered a guest talk (as an alumnus) on the *"Introduction to Deep Learning through the lens of NLP"* at SCIS, **University of Hyderabad**.
+- **April 2022:** Delivered an invited talk (as an alumnus) on the *"Introduction to Deep Learning through the lens of NLP"* at SCIS, **University of Hyderabad**.
 - **April 2022:** Received **Microsoft and ACL Travel Grant** to attend ACL 2022 conference physically, Dublin Ireland.
 - **March 2022:** The extended Information Retrieval course project *"Hostility Detection in Online Hindi-English code-mixed Conversations"* by Kamal and Aditi (mentored by me) is accepted in **WebSci 2022** conference as a long paper.
 - **March 2022:** Our ACL 2021 paper *"ZmBART: An Unsupervised Cross-lingual Transfer Framework for Language Generation"* is recognized as **premier paper from India** by [**IKDD-ACM India**](https://ikdd.acm.org/premier-papers.php/). 
 - **Feb 2022:** Our paper *"Meta-XNLG: A Meta-Learning Approach Based on Language Clustering for Zero-Shot Cross-Lingual Transfer and Generation"* is accepted in the Findings of **ACL 2022**.
 - **Feb 2022:** Appointed as **Technical Advisor** in a Legal Domain AI startups [Lending Katalyst](https://lendingkatalyst.com/).
 - **Dec 2021:** Received Student Travel Grant, **CODS-COMAD 2022**
-- **Nov 2021:** Delivered a guest talk on the *"Introduction to Deep Learning for NLP"* at SVECW college, Bhimavaram, AP, India (**100+ participants**).
+- **Nov 2021:** Delivered an invited talk on the *"Introduction to Deep Learning for NLP"* at SVECW college, Bhimavaram, AP, India (**100+ participants**).
 - **Oct 2021:** Officially **ARR-ACL 2022** reviewer.
 - **Aug 2021:** I will serving as **Program Committee** Member of AAAI-2022. 
 - **July 2021:** Started next one-year collaborative work with *Microsoft BING Research (Autosuggest Team)* under the **Microsoft Academic Grant**.   
@@ -36,11 +38,11 @@ nav_order: 2
 - **April 2021:** Featured in IITH college magazine for receiving **joint best departmental poster presentation** along with Sriram at Research Scholar Day 2021
 - **Feb 2021:** Received **Suzuki foundation fellowship 2021**. Second year consecutively.
 - **Jan 2021:** **[[Shared task best paper honorable mention](http://lcs2.iiitd.edu.in/CONSTRAINT-2021/)]** has been awarded to "Coarse and Fine-Grained Hostility Detection in Hindi Posts using Fine Tuned Multilingual Embeddings," which was accepted in the CONSTRAINT workshop of AAAI 2021. This paper was based on an information retrieval course project that I mentored. Congratulations to Arkadipta De and Venkatesh E.  
-- **Dec 2020:** Delivered a guest talk on the *"Introduction to RNN - Data Processing and Text
+- **Dec 2020:** Delivered an invited talk on the *"Introduction to RNN - Data Processing and Text
 Classification"* in Two-week online AICTE sponsored **Faculty Development Program** on *"Data Science using Python"*
 organized by Shri VECW, Bhimavaram, India. Received a certificate of appreciation for the same.  
 - **Oct 2020:** Presented our accepted work at **CIKM'20 conference**.
-- **Oct 2020:** Delivered a guest talk on *"Learning to Distract: Generation of incorrect options from Reading Comprehension MCQ"* in **ACM- IITH student chapter**.  
+- **Oct 2020:** Delivered an invited talk on *"Learning to Distract: Generation of incorrect options from Reading Comprehension MCQ"* in **ACM- IITH student chapter**.  
 - **Oct 2020:** Received Student travel gran from CIKM'20 (ACM-SIGIR) and **ACM-India** for presenting my work at the CIKM'20 conference. 
 - **Aug 2020:** Successfully converted as Senior Research Fellow (SRF) at CSE-IITH 
 - **July 2020:** Acted as a secondary reviewer along with Samujjwal for EMNLP 2020.
