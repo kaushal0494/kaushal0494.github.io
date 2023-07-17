@@ -61,10 +61,19 @@
 "LSTM":
   url:
 
-"MT Evalution":
+"MT Evaluation":
   url:
 
 "Correlation study":
+  url:
+
+"Auto-Completion":
+  url:
+
+"Trie QAC":
+  url:
+
+"NLG Augmentation":
   url:
   
   
