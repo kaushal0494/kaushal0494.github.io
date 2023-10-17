@@ -6,7 +6,7 @@ subtitle: (he/him)| कौशल | கௌஷல் | スキル | కౌశల్
 
 profile:
   align: right
-  image: kaushal_pf.jpeg #prof_pic.jpg
+  image: kaushal_pf.jpg #prof_pic.jpg
   image_circular: false # crops the image to make it circular
   # address: >
   #   <p>555 your office number</p>
