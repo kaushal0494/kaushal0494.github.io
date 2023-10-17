@@ -7,7 +7,12 @@ nav: true
 nav_order: 2
 ---
 
-- **July 2023:** Our paper *"Trie-NLG: Trie Context Augmentation to Improve Personalized Query Auto-Completion for Short and Unseen Prefixes”* is accepted in the **ECML-PKDD 2023 (Journal Track: DAMI)**. This is a collaborative effort with Microsoft India, supported by the **Microsoft Academic Partnership Grant**.
+- **Oct 2023:** **Two papers** are accepted at **EMNLP 2023** (Findings and The BigPicture workshop). 
+- **Sept 2023:** Delivered an invited talk on **Meta-Learning for Low-resource Language Generation** at **NLP Research Team, Google Research India**
+- **Sept 2023:** Attended the **ECML-PKDD 2023** conference in-person in Italy, Torino. 
+- **Aug 2023:** Delivered an invited talk on **Large Language Models and Responsible Text Generation** as an alumnus at the SCIS seminar series, University of Hyderabad.
+- **July 2023:** Attended summer school at **University of Oxford** virtually.
+- **July 2023:** Our paper *"Trie-NLG: Trie Context Augmentation to Improve Personalized Query Auto-Completion for Short and Unseen Prefixes”* is accepted in the **ECML-PKDD 2023 (Journal Track: DAMI)**. This collaborative effort with Microsoft India is supported by the **Microsoft Academic Partnership Grant**.
 - **June 2023:** Delivered an invited talk on **Hype to Reality: Responsible Text Generation with Large Language Models** at the CSE seminar series, IIT Hyderabad.
 - **May 2023:** Reached a milestone in my academic career by attaining **50 citations** on Google Scholar.
 - **May 2023:** Our paper *"DivHSK: Diverse Headline Generation using Self-Attention based Keyword Selection"* is accepted in the Findings of **ACL 2023**.
