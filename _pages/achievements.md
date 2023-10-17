@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-- **Oct 2023:** **Two papers** are accepted at **EMNLP 2023** (Findings and The BigPicture workshop). 
+- **Oct 2023:** **Two papers** are accepted at **EMNLP 2023** (Findings and The BigPicture workshop). The Finding paper is authored with the awesome collaborator, Maharaj.
 - **Sept 2023:** Delivered an invited talk on **Meta-Learning for Low-resource Language Generation** at **NLP Research Team, Google Research India**
 - **Sept 2023:** Attended the **ECML-PKDD 2023** conference in-person in Italy, Torino. 
 - **Aug 2023:** Delivered an invited talk on **Large Language Models and Responsible Text Generation** as an alumnus at the SCIS seminar series, University of Hyderabad.
