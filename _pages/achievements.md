@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 
-- **Oct 2023:** I talked about *AI Research* and *My PhD research Experience* with Piya on my first [**PodCast**](https://www.youtube.com/watch?v=Gqx1P8Twcdk). Thank you Priya for the invitation and being a wonderful host.
+- **Oct 2023:** I talked about *AI Research* and *My PhD research Experience* with Piya on my first [**PodCast**](https://www.youtube.com/watch?v=Gqx1P8Twcdk). Thank you Priya for the invitation and for being a wonderful host.
 - **Oct 2023:** **Two papers** have been accepted at **EMNLP 2023** (Findings and The BigPicture workshop). The Finding paper is authored with the awesome collaborator, Maharaj.
 - **Oct 2023**  My application for in-person **IndoML 2023** (held at IIT Bombay) travel grant is accepted.
 - **Sept 2023:** Delivered an invited talk on **Meta-Learning for Low-resource Language Generation** at **NLP Research Team, Google Research India**
