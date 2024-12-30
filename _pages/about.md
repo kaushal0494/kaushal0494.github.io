@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: (he/him)| कौशल | கௌஷல் | スキル | కౌశల్ | Навык | ਹੁਨਰ |
+subtitle: (he/him)
 
 profile:
   align: right
