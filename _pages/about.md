@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: (he/him)
+subtitle: (he/him) | कौशल | கௌஷல் | スキル | కౌశల్ | Навык | ਹੁਨਰ |
 
 profile:
   align: right
@@ -17,6 +17,8 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+
+I am Kaushal
 
 I am a Ph.D. candidate in the [Department of Computer Science and Engineering](https://cse.iith.ac.in/) at [Indian Institute of Technology Hyderabad](https://www.iith.ac.in/) and advised by Dr. [Maunendra Sankar Desarkar](https://www.iith.ac.in/~maunendra/). I am an active collaborator at Microsoft India, working with [Manish Gupta](https://sites.google.com/view/manishg/) and [Anoop Kunchukuttan](https://anoopkunchukuttan.gitlab.io/). I spent the last three wonderful summers interning at [Microsoft](https://www.microsoft.com/en-in/msidc/hyderabad-campus.aspx) (Translation and Auto-suggest teams) and [Nvidia-AI](https://resources.nvidia.com/en-us-gps-ai-capacity-building/nvaitc-research).
 
