@@ -17,7 +17,9 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a Post-Doctoral Research Associate in the [NLP Department](https://github.com/kaushal0494/kaushal0494.github.io/edit/master/_pages/about.md) at [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/), Abu Dhabi, UAE. At MBZUAI, I work with [Dr. Ekaterina Kochmar](https://ekochmar.github.io/about/) and am part of the EduNLP Lab. I completed my PhD in [Computer Science and Engineering](https://cse.iith.ac.in/) at [IIT Hyderabad](https://www.iith.ac.in/), India, under the supervision of [Dr. Maunendra Sankar Desarkar](https://www.iith.ac.in/~maunendra/). I actively collaborate with Microsoft India, working with [Manish Gupta](https://sites.google.com/view/manishg/) and [Anoop Kunchukuttan](https://anoopkunchukuttan.gitlab.io/). During my PhD, I spent three wonderful summers interning with the Microsoft Translate, Auto-Suggest, and Nvidia AI teams.
+I am a Post-Doctoral Research Associate in the [NLP Department](https://github.com/kaushal0494/kaushal0494.github.io/edit/master/_pages/about.md) at [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/), Abu Dhabi, UAE. At MBZUAI, I work with [Dr. Ekaterina Kochmar](https://ekochmar.github.io/about/) and am part of the EduNLP Lab. 
+
+I completed my PhD in [Computer Science and Engineering](https://cse.iith.ac.in/) at [IIT Hyderabad](https://www.iith.ac.in/), India, under the supervision of [Dr. Maunendra Sankar Desarkar](https://www.iith.ac.in/~maunendra/). I actively collaborate with Microsoft India, working with [Manish Gupta](https://sites.google.com/view/manishg/) and [Anoop Kunchukuttan](https://anoopkunchukuttan.gitlab.io/). During my PhD, I spent three wonderful summers interning with the Microsoft Translate, Auto-Suggest, and Nvidia AI teams.
 
 ---
 
