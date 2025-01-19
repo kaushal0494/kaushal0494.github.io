@@ -21,7 +21,7 @@ I am a Post-Doctoral Research Associate in the [NLP Department](https://mbzuai.a
 
 I completed my PhD in the [Department of Computer Science and Engineering](https://cse.iith.ac.in/) at [IIT Hyderabad](https://www.iith.ac.in/), India, under the supervision of [Dr. Maunendra Sankar Desarkar](https://www.iith.ac.in/~maunendra/). I actively collaborate with Microsoft India, working with [Dr. Manish Gupta](https://sites.google.com/view/manishg/) and [Dr. Anoop Kunchukuttan](https://anoopkunchukuttan.gitlab.io/). During my PhD, I spent three wonderful summers interning with the Microsoft Translate, Microsoft Auto-Suggest, and Nvidia AI teams.
 
----
+
 
 
 <h3><a>Research Interest</a></h3>
